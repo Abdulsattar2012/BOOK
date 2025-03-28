@@ -1,4 +1,4 @@
-https://beecrowd.com/wp-content/uploads/2024/04/2022-07-19-Melhores-cursos-de-Python.jpg
 
+![download](https://github.com/user-attachments/assets/523e62d0-6f32-4cd6-8b9c-2d1dad97ba06)
 
 once u find the code there are 6 chapters, in the part 1. in the future this will increas too many other parts or in one combined book with full python info. for reading the book go on the preview mode
